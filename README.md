@@ -60,5 +60,5 @@ A turn-based multiplayer game where each player is assigned one of four unique r
 
 This layout should make the rules clear and engaging for anyone reading your GitHub README, explaining each role's point acquisition and round-by-round progression in detail.
 
-
+There has still some lackings.I will try to improve it and make the game more smooth and user friendly.I will also try to make the UI more attractive and beautiful
 
